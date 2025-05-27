@@ -1,6 +1,6 @@
 # 🤖 Asistente Virtual Consular – Chatbot para Trámites de Argentinos en el Exterior
 
-**asistente virtual inteligente** enfocado en brindar ayuda y orientación sobre **trámites consulares**, documentación, residencia y otros servicios para ciudadanos argentinos residentes en España.
+**Asistente virtual inteligente** enfocado en brindar ayuda y orientación sobre **trámites consulares**, documentación, residencia y otros servicios para ciudadanos argentinos residentes en España. El sistema de conversación del chatbot fue parcialmente desarrollado utilizando una herramienta externa de inteligencia artificial, la cual se integró al sitio mediante métodos embebidos.
 
 Desarrollado como una solución informativa, accesible y automatizada para usuarios que necesitan respuestas rápidas y claras sobre procesos oficiales.
 
