@@ -12,6 +12,7 @@ Brindar una herramienta de asistencia accesible y responsiva, integrando un chat
 
 El asistente está pensado para **funcionar como un canal de atención virtual** y soporte informativo disponible 24/7, reduciendo carga operativa en consulados o embajadas.
 
+ 👉 Visita la pagina : https://encr.pw/p8tlc
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -20,6 +21,8 @@ El asistente está pensado para **funcionar como un canal de atención virtual**
 - **JavaScript Vanilla** – para la lógica de interacción
 - **Responsive Design** – adaptación total a móviles y escritorio
 - **Optimización de carga** – imágenes comprimidas y lazy loading en elementos de fondo
+
+
 
 
 
