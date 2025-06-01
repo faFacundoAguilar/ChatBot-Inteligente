@@ -10,8 +10,6 @@ Desarrollado como una solución informativa, accesible y automatizada para usuar
 
 Brindar una herramienta de asistencia accesible y responsiva, integrando un chatbot capaz de responder dudas frecuentes sobre temas consulares, turnos, residencia, DNI, pasaportes, legalizaciones y más.
 
-El asistente está pensado para **funcionar como un canal de atención virtual** y soporte informativo disponible 24/7, reduciendo carga operativa en consulados o embajadas.
-
  👉 Visita la pagina : https://encr.pw/p8tlc
 ---
 
